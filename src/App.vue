@@ -3,12 +3,12 @@ import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
+  <h1>udemy vue</h1>
   <HelloWorld msg="Vite + Vue" />
-  <p>hello world</p>
 </template>
 
 <style scoped>
-p {
-  color: blue;
+h1 {
+  color: whitesmoke;
 }
 </style>
